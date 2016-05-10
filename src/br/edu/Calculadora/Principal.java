@@ -9,7 +9,7 @@ public class Principal {
 
 		calculadoraDoPedrinho.somar(10,50);
 		calculadoraDoPedrinho.somar(20,10);
-		JOptionPane.showMessageDialog(null, calculadoraDoPedrinho.getValor());
+		JOptionPane.showMessageDialog(null,"O valor somado é: "+ calculadoraDoPedrinho.getValor());
 
 	}
 
